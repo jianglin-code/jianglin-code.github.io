@@ -4,13 +4,14 @@ I also have a good understanding of system framework design, technical proposal 
 
 ## Recent Achievements
 
-> Developed a secure operating system that has obtained Level 4 Certification for Information Security Protection and the Huawei Kunpeng Compatibility Certification.
+Published a paper at the NSDI24 conference (First Author & Corresponding Author).
+> Towards Intelligent Automobile Cockpit via A New Container Architecture (https://www.usenix.org/conference/nsdi24/presentation/jiang-lin)
 > 
-> Collaborated with the Central Software Department of Huawei's 2012 Laboratory and was awarded the title of an excellent project.
+Published one paper accepted by ICSE2021 and another by CCS2021 (Main Author).
+> App’s Auto-Login Function Security Testing via Android OS-Level Virtualization
+> Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization
 > 
-> Worked with the Wuhan University Network Security Laboratory on top-tier conference papers, with one paper accepted by ICSE2021 and another by CCS2021 (Main Author).
-> 
-> Published a paper at the NSDI24 conference (First Author & Corresponding Author).
+
 
 ## Education
 2006/10-2010/07 Xi`an Technological University, Information Security
