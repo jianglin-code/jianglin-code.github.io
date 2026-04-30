@@ -1,5 +1,4 @@
 
-## Major
 I am quite familiar with operating system technology and image processing technology. 
 I also have a good understanding of system framework design, technical proposal evaluation, and technical negotiation. 
 
