@@ -1,6 +1,8 @@
-Major: I am quite familiar with operating system technology and image processing technology. I also have a good understanding of system framework design, technical proposal evaluation, and technical negotiation. 
+## Major
+I am quite familiar with operating system technology and image processing technology. 
+I also have a good understanding of system framework design, technical proposal evaluation, and technical negotiation. 
 
-## Recent Achievements:
+## Recent Achievements
 
 > Developed a secure operating system that has obtained Level 4 Certification for Information Security Protection and the Huawei Kunpeng Compatibility Certification.
 > 
